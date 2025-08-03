@@ -1,0 +1,22 @@
+{
+    "name": "Musical Eras",
+    "short_name": "Eras",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#222222",
+    "icons": [
+        {
+            "src": "icons8-music-192.png",
+            "sizes": "64x64",
+            "type": "image/png",
+            "density": 1.0
+        },
+        {
+            "src": "icons8-music-512.png",
+            "sizes": "64x64",
+            "type": "image/png",
+            "density": 4.0
+        }
+    ]
+}
